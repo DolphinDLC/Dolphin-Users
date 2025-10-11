@@ -1,12 +1,6 @@
 {
-  "players": [
-    {
-      "nickname": "Gamer14396_YT",
-      "key": "a5e4KJYI8JVr2s2QiWymMu2yx3tLqcC3dB75yPJpNd2cxgWpJjfp82o4MbsZV537vYIFDg2M2pf_e_XeT2HAqzdICCdaUD0lo6vybJzr55_luKKdBX8POVg82ja1dm70mhD0QgClakK9Ed2IP|EtJgoN35z_brBb_sTnIuyBRdg6l9Jq8Q6mYTzCPQhFKA2Kkw9tkM3L"
-    },
-    {
-      "nickname": "fewfsfsfdsfewfew",
-      "key": "key100chance"
-    }
-  ]
+  "player": {
+    "nickname": "Gamer14396_YT",
+    "key": "a5e4KJYI8JVr2s2QiWymMu2yx3tLqcC3dB75yPJpNd2cxgWpJjfp82o4MbsZV537vYIFDg2M2pf_e_XeT2HAqzdICCdaUD0lo6vybJzr55_luKKdBX8POVg82ja1dm70mhD0QgClakK9Ed2IP|EtJgoN35z_brBb_sTnIuyBRdg6l9Jq8Q6mYTzCPQhFKA2Kkw9tkM3L"
+  }
 }
